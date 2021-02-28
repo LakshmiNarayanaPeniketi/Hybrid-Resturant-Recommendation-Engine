@@ -2,7 +2,7 @@
 
 ## **Introduction:**
 
-**The project objective is to build a hybrid recommendation engine by mixing recommendations from content-based filtering, user-based and item-based collaborative filtering recommendation models, all the Data Mining and recommendation algorithms are implemented without using any library from scratch. Coding and implementing the algorithms without using libraries helps us in better understanding of them and use the algorithms as per our input data and requirements. we want to apply machine learning and data mining algorithms to develop predictive models and hence build a hybrid recommendation system that suggests the most suitable restaurants for users based on their preferences. This is done by predicting the ratings given by a user on a particular business unit.**
+**The project objective is to build a hybrid recommendation engine by collaborating recommendations from different models like content-based filtering, user-based and item-based collaborative filtering recommendation models, all the Data Mining and recommendation algorithms are implemented without using any library from scratch. Coding and implementing the algorithms without using libraries helps us in better understanding of them and use the algorithms as per our input data and requirements. we want to apply machine learning and data mining algorithms to develop predictive models and hence build a hybrid recommendation system that suggests the most suitable restaurants for users based on their preferences. This is done by predicting the ratings given by a user on a particular business unit.**
 
 ## **Problem:**
 
