@@ -1,19 +1,13 @@
 # **Recommendation-Systems**
 
 ## **Introduction:**
-This is a competition project has been done in fulfillment to the completion of Foundations and applications of Data Minig(INF553) course at University of Southern California. The work on the project was all done by myself.
 
-The project objective is to build a hybrid recommendation engine by mixing recommendations from content-based filtering, user-based and item-based collaborative filtering recommendation models.
-
-**In this project, all the Data Mining and recommendation algorithms are implemented without using any library from scratch**. Coding and implementing the algorithms without using libraries helps us in better understanding of them and use the algorithms as per our input data and requirements.
-
-**This Recommendation project stood at third place in a class of 106 students at Data Mining class Spring 2020 and the rankings are given as per RMSE.** 
+**The project objective is to build a hybrid recommendation engine by mixing recommendations from content-based filtering, user-based and item-based collaborative filtering recommendation models, all the Data Mining and recommendation algorithms are implemented without using any library from scratch. Coding and implementing the algorithms without using libraries helps us in better understanding of them and use the algorithms as per our input data and requirements. we want to apply machine learning and data mining algorithms to develop predictive models and hence build a hybrid recommendation system that suggests the most suitable restaurants for users based on their preferences. This is done by predicting the ratings given by a user on a particular business unit.**
 
 ## **Problem:**
 
 Recommendation systems have become an integral part of many businesses. They produce individualized recommendations as output or have the effect of guiding the user in a personalized way to interesting objects in a larger space of possible options.
 
-In this project, we want to apply machine learning and data mining algorithms to develop predictive models and hence build a hybrid restaurant recommendation system that suggests the most suitable restaurants for users based on their preferences. This is done by predicting the ratings given by a user on a particular business unit.
 
 ## **Dataset description:**
 This project uses the Yelp dataset available at https://www.yelp.com/dataset
@@ -94,9 +88,3 @@ considering their rating scores . This process reduced the number of user pairs 
 ## **Result:**
 
 This recommendation engine predicted user ratings on certain business with an rmse of 1.17269 on test dataset and 1.17078 on blind dataset.
-
-
-
-
-
-
